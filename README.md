@@ -1,6 +1,3 @@
-# Calculo Propinas
-Formulario y registro para calcular propinas 
-
 # Sistema de Cálculo de Propinas con Historial de Registro
 
 Este repositorio contiene un sistema de cálculo de propinas desarrollado en PHP, diseñado específicamente para su uso en restaurantes. El sistema permite gestionar y calcular propinas de manera eficiente, llevando un historial detallado de cada registro. 
